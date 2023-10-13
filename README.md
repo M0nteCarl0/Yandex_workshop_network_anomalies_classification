@@ -30,6 +30,22 @@
 Вы можете установить необходимые пакеты, выполнив следующую команду:
 - pip install -r requirements.txt
 
+## Метрики полученных моделей
+### network_traffic_data_classification_20231011-205830.cbm
+| Metric    | Value       |
+|-----------|-------------|
+| Accuracy  | 0.997887402 |
+| Precision | 0.948916621 |
+| Recall    | 0.889138490 |
+| F1-score  | 0.909275987 |
+
+### network_traffic_data_classification_20231008-194334.cbm
+| Metric | Value | 
+|-----------|-------------|
+| Accuracy | 0.997757681 | 
+| Precision | 0.908497645 |
+| Recall | 0.886727648 | 
+| F1-score | 0.891595075 |
 
 
 
